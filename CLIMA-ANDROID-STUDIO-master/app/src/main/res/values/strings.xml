@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Clima Fer</string>
+    <string name="weather">Clima fFer</string>
+    <string name="country_iso_code">Country ISO Code :</string>
+    <string name="code">Code</string>
+    <string name="city_name">City Name :</string>
+    <string name="name">Name</string>
+    <string name="get">Get</string>
+    <string name="temperature">Temperature</string>
+    <string name="current">Actualmente :</string>
+    <string name="Fields_cannot_be_empty">Algo esta vacio, corrige porfi</string>
+</resources>

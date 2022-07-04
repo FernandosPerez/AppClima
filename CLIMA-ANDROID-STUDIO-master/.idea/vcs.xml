@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recuperacion_Clima_Fer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recuperacion_Clima_Fer/Recuperacion_Clima_fer_Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recuperacion_del_clima_fer" vcs="Git" />
+  </component>
+</project>
